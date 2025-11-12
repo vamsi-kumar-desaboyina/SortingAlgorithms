@@ -1,10 +1,15 @@
 package com.bubblesort;
 
 //bubble sort
+//Write a program to count the number of swaps made during Bubble Sort.
+//Optimize Bubble Sort so that it stops early when the array becomes sorted before all passes are complete.
+//Given an array of integers, use Bubble Sort to sort it, and then print the kth smallest element.
 import java.util.*;
 class BubbleSort {
   public static void main(String[] args) {
-      int[] arr={1,2,3,6,9,-2,4,5};
+	  int[] arr={1,2,3,6,9,-2,4,5};
+      int count=0;
+      int kthelement=2;
       for(int i=0;i<arr.length-1;i++)
       {
           boolean swap=false;
@@ -16,12 +21,16 @@ class BubbleSort {
                   arr[j]=arr[j+1];
                   arr[j+1]=temp;
                   swap=true;
+                  count++;
               }
           }
           System.out.println(Arrays.toString(arr));
+          
           if(!swap) break;
       }
       System.out.println(Arrays.toString(arr));
+      System.out.println(count);
+      System.out.println(arr[kthelement-1]);
   }
 }
 //🧩 Algorithm: Bubble Sort
