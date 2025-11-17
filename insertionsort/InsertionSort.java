@@ -1,4 +1,4 @@
-package com.insertionsort.www;
+package com.insertionsort;
 
 import java.util.*;
 public class InsertionSort {
