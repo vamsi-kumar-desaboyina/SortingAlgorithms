@@ -1,0 +1,53 @@
+🧮 Basic Level
+
+🔹 Q1. Implement Bubble Sort to sort an array of integers in ascending order without using any built-in sorting methods.   ==done
+🔹 Q2. Modify Bubble Sort to sort the array in descending order.                                                           ==done
+🔹 Q3. Write a program to count the number of swaps made during Bubble Sort.                                               ==done
+🔹 Q4. Optimize Bubble Sort so that it stops early when the array becomes sorted before all passes are complete.           ==done
+🔹 Q5. Given an array of integers, use Bubble Sort to sort it, and then print the kth smallest element.                    ==done
+🔹 Q6. Given an array, check if it is already sorted using a single traversal using bubble sort.                           ==done
+🔹 Q7. Write a program to find the second largest element in an array without sorting it completely using bubble sort.     ==done
+🔹 Q8. Given an array of integers, sort the array without using any built-in sorting function (implement any sorting algorithm manually).  ==done
+
+⚙️ Intermediate Level
+
+🔹 Q9. Given an array of strings, sort them in lexicographical (alphabetical) order using Bubble Sort.
+🔹 Q10. Implement Bubble Sort on an array of objects (e.g., students with name and marks) to sort them by marks in ascending order.
+🔹 Q11. Write a program to sort only the even numbers in an array using Bubble Sort while keeping the odd numbers in their original positions.
+🔹 Q12. Write a function using Bubble Sort that checks if an array is already sorted or not, without actually sorting it.   ==done
+🔹 Q13. Given two sorted arrays, merge them into one sorted array without using library functions — and then apply Bubble Sort on the merged result.
+🔹 Q14. Given two arrays, check if they are permutations of each other (contain the same elements).
+🔹 Q15. Sort an array of 0s, 1s, and 2s without using any sorting function (Dutch National Flag problem).
+🔹 Q16. Given a list of student marks, sort them and print the top 3 scores.
+
+⚙️ Bonus Practice Questions (For Deeper Logic)
+
+🔹 Q17. Implement sorting of an array of strings by length using Bubble Sort.
+🔹 Q18. Sort an array but stop after the k-th pass of Bubble Sort (partial sorting).
+🔹 Q19. Write a program to find duplicates in an array using sorting.
+🔹 Q20. Given an array of integers, move all zeros to the end while maintaining order.
+🔹 Q21. Sort an array of integers using a custom comparator logic (even numbers first, then odd).
+🔹 Q22. Given an array of numbers, find the pair whose sum is closest to zero.
+🔹 Q23. Write a program to merge two sorted arrays into a single sorted array without using extra sorting functions.
+🔹 Q24. Given an array, sort the elements by their frequency (most frequent elements first).
+🔹 Q25. Given an unsorted array, find the missing number from a sequence of 1 to n.
+🔹 Q26. Implement a function that sorts an array but keeps negative numbers at the same position.
+🔹 Q27. Given an array of integers, find the longest consecutive sequence of numbers.
+🔹 Q28. Given an array, sort all even numbers first, then odd numbers — while maintaining the relative order.
+🔹 Q29. Sort an array by absolute difference from a given number k.
+
+🧩 Logic + Sorting Combination
+
+🔹 Q30. You are given an array of arrival and departure times of trains. Find the minimum number of platforms required at the station so that no train waits.
+🔹 Q31. Given a list of employee salaries, sort the data by salary, but if two salaries are equal, sort by employee name alphabetically.
+🔹 Q32. Given an array of integers, find all triplets that sum to zero.
+🔹 Q33. You are given a list of intervals (start, end). Merge all overlapping intervals and return the merged list.
+🔹 Q34. Write a program to sort student records by multiple keys (for example, by grade, then by name).
+
+🧠 Bonus: Company-Specific Favourites
+
+🔹 (Infosys) Sort the array but do not move the zero elements.
+🔹 (TCS NQT) Given an array, sort the digits inside each number individually.
+🔹 (Amazon) Find the kth largest element using sorting.
+🔹 (Accenture) Given a list of names, sort them by the number of vowels.
+🔹 (Wipro) Given an array of integers, rearrange the numbers so that positives and negatives alternate.
