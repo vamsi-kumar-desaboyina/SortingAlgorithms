@@ -1,0 +1,25 @@
+1. Implement insertion sort to sort an array of integers in ascending order.
+2. Implement insertion sort to sort an array in descending order.
+**3. Modify insertion sort to count the number of shifts required to sort the array.
+
+(e.g., return how many times an element was moved)**
+
+4. Write insertion sort without using swap — only shifting.
+5. Perform insertion sort on an array of strings and sort them in alphabetical order.
+6. Sort an array of objects (e.g., Employee) using insertion sort based on a field like age or salary.
+7. Implement recursive insertion sort.
+8. Use insertion sort to sort only the first k elements of an array.
+9. Given an array, print the state of the array after each pass of insertion sort.
+10. Implement binary insertion sort (use binary search to find the correct position).
+11. Given a linked list, sort it using insertion sort logic.
+12. Sort an array that is “almost sorted” using insertion sort and return how many elements were out of place.
+13. Implement insertion sort and stop the algorithm immediately when the array becomes sorted.
+14. Use insertion sort to sort the digits of a number (e.g., 4721 → 1247).
+15. Write insertion sort that sorts odd numbers first and then even numbers (both separately sorted).
+16. Given a list of timestamps, sort them using insertion sort.
+17. Implement insertion sort but track and print every comparison made.
+18. Sort an array of characters using insertion sort.
+19. Given a nearly sorted array, apply insertion sort and count how many elements are already in correct position.
+20. Modify insertion sort to sort an array in-place but from right to left instead of left to right.
+21. Write a function that returns the number of shifts performed by insertion sort.
+22. Given a stream of numbers, insert each number into a sorted list using insertion sort logic.
